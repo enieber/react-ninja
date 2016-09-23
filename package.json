@@ -1,0 +1,19 @@
+{
+  "name": "react-ninja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "dev": "webpack-dev-server" 
+  },
+  "keywords": [
+    "]]]"
+  ],
+  "author": "Enieber Cunha <eniebercunha@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}
